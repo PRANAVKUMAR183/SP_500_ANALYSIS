@@ -7,4 +7,7 @@
 **Key Libraries Used**: Yfinance,PlotlyExpress,Numpy and Pandas
 
 **Outcome**:There was a negative corelation between Closing price returns and Volume ,showcasing that these factors do not move in the same direction.
-![](CAMP.jpeg)
+![](Relationship.jpeg)
+![](Corelation.jpeg)
+![](Countofbad.jpeg)
+![](Goodbadgraph.jpeg)
