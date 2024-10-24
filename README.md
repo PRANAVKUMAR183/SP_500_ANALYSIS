@@ -12,5 +12,5 @@
 
 **Negative and positive returns**
 
-![](Countofbad.jpeg)
+![](Countcount.jpeg)
 ![](Goodbadgraph.jpeg)
