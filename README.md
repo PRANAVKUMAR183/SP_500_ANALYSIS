@@ -9,5 +9,7 @@
 **Outcome**:There was a negative corelation between Closing price returns and Volume ,showcasing that these factors do not move in the same direction.
 ![](Relationship.jpeg)
 ![](Corelation.jpeg)
+
+**Negative and positive returns**
 ![](Countofbad.jpeg)
 ![](Goodbadgraph.jpeg)
