@@ -11,5 +11,6 @@
 ![](Corelation.jpeg)
 
 **Negative and positive returns**
+
 ![](Countofbad.jpeg)
 ![](Goodbadgraph.jpeg)
